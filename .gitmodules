@@ -1,0 +1,3 @@
+[submodule "Drivers/speedometer_gps_sm"]
+	path = Drivers/speedometer_gps_sm
+	url = https://github.com/bazhen-paseka/speedometer_gps_sm.git
