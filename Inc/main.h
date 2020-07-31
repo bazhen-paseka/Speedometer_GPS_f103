@@ -60,6 +60,10 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 #define LED_Pin GPIO_PIN_0
 #define LED_GPIO_Port GPIOB
+#define TM1637_CLK1_Pin GPIO_PIN_14
+#define TM1637_CLK1_GPIO_Port GPIOB
+#define TM1637_DIO1_Pin GPIO_PIN_15
+#define TM1637_DIO1_GPIO_Port GPIOB
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
