@@ -4,3 +4,6 @@
 [submodule "Drivers/tm1637_sm"]
 	path = Drivers/tm1637_sm
 	url = https://github.com/bazhen-paseka/tm1637_sm.git
+[submodule "Drivers/ringbuffer-2019_sm"]
+	path = Drivers/ringbuffer-2019_sm
+	url = https://github.com/bazhen-paseka/ringbuffer-2019_sm.git

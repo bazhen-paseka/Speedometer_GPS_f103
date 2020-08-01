@@ -12,3 +12,11 @@
 9)	N - Mode indicator		,
 *30 - checksum				.
 
+$GPVTG,,T,,M,0.251,N,0.464,K,A*23
+$GPVTG,,T,,M,0.175,N,0.324,K,A*25
+$GPVTG,,T,,M,0.044,N,0.082,K,A*29
+
+
+
+
+
