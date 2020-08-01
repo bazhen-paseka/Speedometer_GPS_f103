@@ -1,6 +1,5 @@
 
-0)	$	-	Start
-1)	GPVTG - VTG				,
+0)	$GPVTG (VTG)			,
 1)	Course True (value)		,
 2)	T = true				,
 3)	Course Magnetic (value)	,
