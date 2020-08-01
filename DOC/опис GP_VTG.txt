@@ -1,0 +1,14 @@
+
+0)	$	-	Start
+1)	GPVTG - VTG				,
+1)	Course True (value)		,
+2)	T = true				,
+3)	Course Magnetic (value)	,
+4)	M = Magnetic			,
+5)	Speed over ground		,
+6)	N = Knot				,
+7)	Speed over ground		,
+8)	K = Km/h				,
+9)	N - Mode indicator		,
+*30 - checksum				.
+
